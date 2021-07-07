@@ -1,5 +1,5 @@
 # Lmser-DCW
-Project of CS7319 [2020 Fall]
+Project of CS7319: Brain-Like Intelligence [2020 Fall]
 
 Proceeded beyond Auto Encoder (AE), Lmser is featured by a bidirectional architecture with several built-in natures, for which you can refer to the table below:  
 ![image](https://github.com/MatthewXY01/Lmser-DCW/blob/main/misc/duality.png)
